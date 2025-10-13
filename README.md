@@ -50,4 +50,4 @@ Platforms: Kali Linux, Windows Server, VMware, Metasploitable
 
 
 
-I’m documenting my journey into cybersecurity—follow along as I learn, build, and share projects that put security concepts into practice.
+I’m documenting my journey into cybersecurity, follow along as I learn, build, and share projects that put security concepts into practice.
