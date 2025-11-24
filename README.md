@@ -8,13 +8,13 @@ Sharing my learning journey and practical projects here on GitHub
 ## Current Focus
 - Preparing for security certifications(ISC2 and CompTIA Security+)
 - Developing integrated projects that combine:
-  - VMware for lab virtualization
+  - VirtualBox for lab virtualization
   - Kali Linux for offensive security testing
-  - Metasploitable as a vulnerable target
   - Burp Suite for web application testing
   - Windows Server for enterprise defense and monitoring
 
-
+## Certifications
+- ISC2CC
 
 ## Featured Projects
 Here are some of the projects I’m working on that bring all these tools together:
@@ -40,14 +40,14 @@ Check out my pinned repositories below for detailed walkthroughs, screenshots, a
 
 ## Skills & Tools
 Languages & Scripting: Python, Bash, PowerShell  
-Security Tools: Wireshark, Nmap, Metasploit, Burp Suite, Hydra  
-Platforms: Kali Linux, Windows Server, VMware, Metasploitable  
+Security Tools: Wireshark, Nmap, Burp Suite, Hydra  
+Platforms: Kali Linux, Windows Server, VirtualBox, Metasploitable  
 
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/victor-dominic-1a48a72b8/?trk=opento_sprofile_topcard)  
-- [Email](mailto:victordominic12@gmail.com)  
+- [Email](mailto:victordominic12@gmail.com)
 
 
 
-I’m documenting my journey into cybersecurity, follow along as I learn, build, and share projects that put security concepts into practice.
+I’m documenting my journey into cybersecurity. Follow along as I learn, build, and share projects that put security concepts into practice.
