@@ -40,7 +40,7 @@ Check out my pinned repositories below for detailed walkthroughs, screenshots, a
 ## Skills & Tools
 Languages & Scripting: Python, Bash, PowerShell  
 Security Tools: Wireshark, Nmap, Burp Suite, Hydra  
-Platforms: Kali Linux, Windows Server, VirtualBox, Metasploitable  
+Platforms: Kali Linux, Windows Server, VirtualBox
 
 
 ## Connect with Me
